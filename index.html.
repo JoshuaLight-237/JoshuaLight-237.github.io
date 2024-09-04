@@ -35,3 +35,8 @@
     <script src="script.js"></script>
 </body>
 </html>
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm learning how to build websites. This is my first site hosted on GitHub Pages.</p>
+</section>
+<a href="https://www.example.com">Visit Example</a>
